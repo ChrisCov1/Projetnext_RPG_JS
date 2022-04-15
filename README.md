@@ -6,7 +6,7 @@ Chaque tour, pour chaque personnage, tu vas choisir qui attaquer.
 Le personnage qui a le plus de points de vie à la fin de 10 tours a gagné le jeu.
 
 Lancement avec le fichier Index.html 
-Mais fausse joie, à oi cher lecteur car nope l'app ne fonctionne pas
+Mais fausse joie, cher lecteur car l'app ne fonctionne pas
 
-Merci qund même pour to passage
+Merci quand même pour ton passage
 XOXO
